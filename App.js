@@ -9,6 +9,7 @@ export default function App() {
         <View>
             <Text>맞는거냐</Text>
         </View>
+        <Text>메롱</Text>
       <StatusBar style="auto" />
     </View>
   );
