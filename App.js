@@ -7,6 +7,7 @@ export default function App() {
       <Text>Open up App.js to start working on your app!</Text>
       <Text>hanseulllll</Text>
         <Text>이한슬</Text>
+        <Text>마라탕이 맛있냐</Text>
       <StatusBar style="auto" />
     </View>
   );
