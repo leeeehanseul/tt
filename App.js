@@ -7,6 +7,7 @@ export default function App() {
       <Text>Open up App.js to start working on your app!</Text>
       <Text>hanseulllll</Text>
         <Text>이한슬</Text>
+        <View style={{backgroundColor: 'black' }}></View>
       <StatusBar style="auto" />
     </View>
   );
