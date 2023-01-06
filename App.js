@@ -1,23 +1,11 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+//import feedmessage from "./FeedMessage/FeedMessage";
+//export default feedmessage;
 
-export default function App() {
-  return (
-    <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <Text>hanseulllll</Text>
-        <Text>이한슬</Text>
+//import resultlist from  './Resultlist/Resultlist';
+//export default resultlist;
 
-      <StatusBar style="auto" />
-    </View>
-  );
-}
+//import resultupload from './Resultupload/Resultupload';
+//export default resultupload;
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
+import PlayerHome from "./playerhome/Playerhome";
+export default PlayerHome;

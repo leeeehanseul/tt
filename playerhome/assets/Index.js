@@ -1,0 +1,10 @@
+export { default as Defaultimage } from './Defaultimage.svg';
+export { default as Feedcontest } from './Feedcontest.svg';
+export { default as Feedmedal } from './Feedmedal.svg';
+export { default as Feedtalk } from './Feedtalk.svg';
+export { default as Graydot } from './Graydot.svg';
+export { default as Heart } from './Heart.svg';
+export { default as Talk } from './Talk.svg';
+export { default as Goldstar } from './Goldstar.svg';
+export { default as Label } from './Label.svg';
+export { default as Storyplusicon } from './storypulsicon.svg';

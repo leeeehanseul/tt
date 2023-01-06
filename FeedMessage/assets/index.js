@@ -1,0 +1,1 @@
+export { default as Feedtalk } from './feedtalk.svg'
